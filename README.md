@@ -6,12 +6,11 @@
 
 Run Windows applications and games on macOS with a native SwiftUI experience.
 
-![Release](https://img.shields.io/github/v/release/Unblockerfire/Bourbon?style=for-the-badge)
-[![Build](https://img.shields.io/github/actions/workflow/status/Unblockerfire/Bourbon/release.yml?style=for-the-badge&label=BUILD)](https://github.com/Unblockerfire/Bourbon/actions/workflows/release.yml)
-[![Discord](https://img.shields.io/badge/CHAT-JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bpm6EGSVMR)
+![Release](https://img.shields.io/badge/RELEASE-PAUSED-F59E0B?style=for-the-badge)
+![Build](https://img.shields.io/badge/BUILD-INACTIVE-F59E0B?style=for-the-badge)
+[![Discord](https://img.shields.io/badge/-JOIN%20DC-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bpm6EGSVMR)
 
 </div>
-
 ---
 
 > [!IMPORTANT]
